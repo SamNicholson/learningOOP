@@ -1,0 +1,11 @@
+{
+    "name": "snicholson/learningoop",
+    "description": "A learning package for basic object orientated PHP",
+    "authors": [
+        {
+            "name": "Sam Nicholson",
+            "email": "snicholson@workanyware.co.uk"
+        }
+    ],
+    "require": {}
+}
