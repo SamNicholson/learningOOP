@@ -7,5 +7,13 @@
             "email": "snicholson@workanyware.co.uk"
         }
     ],
+    "autoload": {
+        "psr-4": {
+          "Lesson1": "1/",
+          "Lesson2": "2/",
+          "Lesson3": "3/",
+          "Lesson4": "4/"
+        }
+    },
     "require": {}
 }
