@@ -9,10 +9,10 @@
     ],
     "autoload": {
         "psr-4": {
-          "Lesson1": "Lesson1/",
-          "Lesson2": "Lesson2/",
-          "Lesson3": "Lesson3/",
-          "Lesson4": "Lesson4/"
+          "Lesson1\\": "Lesson1/",
+          "Lesson2\\": "Lesson2/",
+          "Lesson3\\": "Lesson3/",
+          "Lesson4\\": "Lesson4/"
         }
     },
     "require": {}
