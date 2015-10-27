@@ -7,7 +7,8 @@ namespace Lesson1\Exercise;
  *
  * This is a dog, dogs have 4 legs, a tail and 2 ears
  *
- * Some dogs bite, does this dog?
+ * Sometimes this dog will bite, but not all the time. Some
+ * would say when he bites is a little bit random.
  *
  * Complete the class below to meet the requirements above
  *
