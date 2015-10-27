@@ -8,5 +8,7 @@ require_once __DIR__ . '/../../vendor/autoload.php';
  *
  * Maybe consider the different types of Preference, having different users,
  * being able to update on the fly users preferences
+ *
+ * Perhaps consider taking certain types of objects as arguments
  */
 
